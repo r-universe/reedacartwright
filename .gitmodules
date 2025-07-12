@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ironseed"]
+	path = ironseed
+	url = https://github.com/reedacartwright/ironseed
 [submodule "rbedrock"]
 	path = rbedrock
 	url = https://github.com/reedacartwright/rbedrock
